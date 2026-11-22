@@ -43,7 +43,6 @@ const GROUPS = [
   { title: "Backend and deploy", items: toItems([["supabase", "Supabase"], ["mongodb", "MongoDB"], ["vercel", "Vercel"]]) },
   { title: "Languages",          items: toItems([["python", "Python"], ["c", "C"], ["typescript", "TypeScript"], ["javascript", "JavaScript"]]) },
   { title: "Desktop and mobile", items: toItems([["electron", "Electron"], ["nextron", "Nextron", "Nx"], ["tauri", "Tauri"], ["react", "React Native"]]) },
-  { title: "Local AI",           items: toItems([["ollama", "Ollama"], ["opencode", "opencode"], ["antigravity", "Antigravity", "Ag"]]) },
   { title: "Tools and platform", items: toItems([["git", "Git"], ["fedora", "Fedora"], ["hyprland", "Hyprland"], ["caelestia", "Caelestia", "Ca"]]) },
 ];
 
