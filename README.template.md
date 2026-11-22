@@ -2,10 +2,13 @@
 
 ## About
 
-I build interfaces, automation and local AI tools. My main interest is space technology and computer science, and I enjoy projects where software has to control something physical.
+Web-Dev, Computer Automation, IoT, System Architecture
+**Astronomy**, **Space Technologies**.  
+
+- **Subjects** : Mathematics, Astronomy, Physics, Computer Science.
 
 - Currently building [Radscope](https://github.com/Tkapat/radscope), a radio telescope mount controller
-- Daily stack: Next.js and Python
+- Daily stack: Next.js+MERN and Python
 - Setup: Fedora, Hyprland, Caelestia
 
 ## Socials
