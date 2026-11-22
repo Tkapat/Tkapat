@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" width="1000" height="220" role="img" aria-label="Tirthadeep Kapat, full-stack developer working in space technology and computer science">
+<defs><clipPath id="c"><rect width="1000" height="220" rx="12"/></clipPath></defs>
+<g clip-path="url(#c)">
+<rect width="1000" height="220" fill="#f6f8fa"/>
+<g fill="none" stroke="#0969da" stroke-opacity="0.16">
+<circle cx="860" cy="110" r="60"/><circle cx="860" cy="110" r="100"/><circle cx="860" cy="110" r="140"/><circle cx="860" cy="110" r="190"/>
+</g>
+<circle r="3.2" fill="#0969da"><animateMotion dur="40s" repeatCount="indefinite" path="M 760,110 a 100,100 0 1,1 200,0 a 100,100 0 1,1 -200,0"/></circle>
+<circle r="2.2" fill="#59636e"><animateMotion dur="70s" repeatCount="indefinite" path="M 670,110 a 190,190 0 1,0 380,0 a 190,190 0 1,0 -380,0"/></circle>
+</g>
+<rect x="0.5" y="0.5" width="999" height="219" rx="12" fill="none" stroke="#d0d7de"/>
+<text x="40" y="96" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#1f2328">Tirthadeep Kapat</text>
+<text x="40" y="136" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#0969da">Full-stack developer</text>
+<text x="40" y="168" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#59636e">Space technology and computer science. Interfaces, automation and local AI.</text>
+</svg>

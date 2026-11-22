@@ -1,0 +1,11 @@
+{
+  "name": "tkapat-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-static.mjs",
+    "stats": "node scripts/stats.mjs",
+    "preview": "npm run build && MOCK=1 node scripts/stats.mjs"
+  },
+  "dependencies": { "simple-icons": "^16.0.0" }
+}
