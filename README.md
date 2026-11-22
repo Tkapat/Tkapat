@@ -6,10 +6,13 @@
 
 ## About
 
-I build interfaces, automation and local AI tools. My main interest is space technology and computer science, and I enjoy projects where software has to control something physical.
+Web-Dev, Computer Automation, IoT, System Architecture
+**Astronomy**, **Space Technologies**.  
+
+- **Subjects** : Mathematics, Astronomy, Physics, Computer Science.
 
 - Currently building [Radscope](https://github.com/Tkapat/radscope), a radio telescope mount controller
-- Daily stack: Next.js and Python
+- Daily stack: Next.js+MERN and Python
 - Setup: Fedora, Hyprland, Caelestia
 
 ## Socials
@@ -40,7 +43,7 @@ I build interfaces, automation and local AI tools. My main interest is space tec
 | Project | What it is |
 | --- | --- |
 | **[Radscope](https://github.com/Tkapat/radscope)** | Radio telescope mount controller. A desktop app with a live 3D sky map and satellite tracking, plus ESP32 firmware that drives NEMA 21 stepper motors over WebSockets. *(React, TypeScript, Three.js, Tauri, C++)* [Live interface](https://radscope.vercel.app) |
-| **[NAZAR](https://github.com/Tkapat/NAZAR_dev_skill)** | [Write one or two sentences about NAZAR] *(SIH project, [Stack])* |
+| **[NAZAR](https://github.com/Tkapat/NAZAR_dev_skill)** |It is the monitoring systemm for government funded training centers. It helps to keep proof and track of the real usage of the equipments funded by development.  *(SIH project, [Stack])* |
 | **Local Assistant** | Computer automation assistant that runs entirely on-device, with no cloud service involved. *(Python, gemma2:2b, private build)* |
 
 ## Skills
@@ -48,7 +51,7 @@ I build interfaces, automation and local AI tools. My main interest is space tec
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/static/skills-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="assets/static/skills-light.svg">
-<img src="assets/static/skills-dark.svg" width="100%" alt="Skills grouped by category: frontend, backend and deploy, languages, desktop and mobile, local AI, tools">
+<img src="assets/static/skills-dark.svg" width="100%" alt="Skills grouped by category: frontend, backend and deploy, languages, desktop and mobile , tools">
 </picture>
 
 ## GitHub statistics
